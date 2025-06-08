@@ -1,0 +1,12 @@
+kr\ac\hansung\cse\hellospringdatajpa\repo\ProductRepository.class
+kr\ac\hansung\cse\hellospringdatajpa\entity\User.class
+kr\ac\hansung\cse\hellospringdatajpa\repo\UserRepository.class
+kr\ac\hansung\cse\hellospringdatajpa\config\SecurityConfig.class
+kr\ac\hansung\cse\hellospringdatajpa\controller\ProductController.class
+kr\ac\hansung\cse\hellospringdatajpa\controller\HomeController.class
+kr\ac\hansung\cse\hellospringdatajpa\service\ProductService.class
+kr\ac\hansung\cse\hellospringdatajpa\service\LoginService.class
+kr\ac\hansung\cse\hellospringdatajpa\config\ThymeleafConfig.class
+kr\ac\hansung\cse\hellospringdatajpa\entity\Product.class
+kr\ac\hansung\cse\hellospringdatajpa\HelloSpringDataJpaApplication.class
+kr\ac\hansung\cse\hellospringdatajpa\controller\AuthController.class
